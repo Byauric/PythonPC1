@@ -24,3 +24,5 @@ elif 18 <= hours <= 19 and 0 <= minutes <= 59:
     print("Es hora de cenar.")
 elif hours == 19 and minutes == 0:
     print("Es hora de cenar.")
+
+
