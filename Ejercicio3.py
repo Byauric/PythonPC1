@@ -8,3 +8,4 @@ num_munecas = int(input("Ingrese el número de muñecas vendidas: "))
 peso_total = (num_payasos * peso_payaso) + (num_munecas * peso_muneca)
 print("El peso total del paquete es: {} gramos".format(peso_total))
 
+
