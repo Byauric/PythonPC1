@@ -5,7 +5,7 @@ lista de muestra: ['Rojo', 'Verde', 'Blanco', 'Negro', 'Rosa', 'Amarillo']
 Resultado esperado: ['Verde', 'Blanco', 'Negro']"""
 
 lista = ['Rojo', 'Verde', 'Blanco', 'Negro', 'Rosa', 'Amarillo']
-lista.remove(lista[5]) # colores.remove('Amarillo')
+lista.remove(lista[5])
 lista.remove(lista[4])
 lista.remove(lista[0])
 print(lista)
